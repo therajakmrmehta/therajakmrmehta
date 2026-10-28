@@ -2,42 +2,29 @@
 
 **Aspiring SOC Analyst | Cybersecurity | Blue Team**
 
-I am a B.Tech Computer Science and Engineering student building a strong foundation in cybersecurity. I am currently learning SOC fundamentals through LetsDefend and exploring the concepts, tools, and techniques used in security operations.
+B.Tech CSE student focused on building a strong foundation in cybersecurity and security operations. Currently learning through LetsDefend, with plans to explore TryHackMe and additional hands-on labs.
 
-My goal is to develop practical cybersecurity skills, gain hands-on experience, and pursue a career as a SOC Analyst.
+### About Me
+- Learning cybersecurity fundamentals and SOC operations.
+- Exploring networking, operating systems, and security concepts.
+- Interested in security monitoring, threat detection, and incident response.
+- Working toward a career as a SOC Analyst.
 
-## About Me
+### Skills & Learning
 
-- Currently learning cybersecurity fundamentals and SOC operations.
-- Exploring networking concepts, protocols, and operating systems.
-- Practicing hands-on security scenarios through LetsDefend.
-- Planning to expand my knowledge through TryHackMe and other practical labs.
-- Interested in security monitoring, threat detection, incident investigation, and defensive security.
-- Committed to continuous learning and improving my technical skills.
+![Networking](https://img.shields.io/badge/Networking-334155?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-334155?style=flat-square&logo=windows&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1D4ED8?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC_Fundamentals-0F766E?style=flat-square)
 
-## Technical Skills
+**Networking:** TCP/IP, DNS, HTTP fundamentals  
+**Operating Systems:** Linux and Windows fundamentals  
+**Platforms:** [LetsDefend](https://letsdefend.io/) · [TryHackMe](https://tryhackme.com/) (planned)
 
-- **Networking:** TCP/IP, DNS, HTTP fundamentals
-- **Operating Systems:** Linux and Windows fundamentals
-- **Cybersecurity:** Security fundamentals and SOC concepts
-- **Current Focus:** Building foundational knowledge and practical skills
+### Current Goal
+Build practical skills, document hands-on learning, and prepare for an entry-level SOC Analyst role.
 
-## Learning Platforms
-
-- LetsDefend — Currently learning
-- TryHackMe — Planned
-- YouTube
-
-## Projects
-
-Currently building my cybersecurity knowledge and planning to document hands-on labs, technical notes, and security investigations as I progress.
-
-## Career Goal
-
-To become a SOC Analyst and gradually develop expertise in security operations, threat detection, incident response, and Blue Team technologies.
-
-## Connect With Me
-
-- **GitHub:** [Raja Kumar](https://github.com/therajakmrmehta)
-- **LinkedIn:** [Raja Kumar](https://www.linkedin.com/in/therajakrmehta/)
-
+### Connect
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/therajakmrmehta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therajakrmehta/)
